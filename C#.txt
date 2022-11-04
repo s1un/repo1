@@ -1,0 +1,10 @@
+
+Console
+
+C#中的console表示控制台。 Console 是一個類別 
+
+ /*輸出訊息(把數據輸出到控制台並顯示出來)*/
+
+  Console.WriteLine(); //表示向控制台寫入字串後 ccccccc
+           
+
